@@ -1,0 +1,19 @@
+{
+    "name": "Toph",
+    "symbol": "",
+    "image": "2.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "2.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "6VXKjEgUiA2ARNQ34K2kYhwbTvyUvDz9cbecZNs75CE",
+          "share": 100
+        }
+      ]
+    }
+  }
